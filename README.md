@@ -1,5 +1,5 @@
 # System Growl Styles
-growlStyles for Mac OS X that match the current version of the OS
+growlStyles for OS X that match the current version of the OS
 
 Included:
 
