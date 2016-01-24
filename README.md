@@ -20,6 +20,4 @@ OS X El Capitan (10.11)
 
 
 ##Screenshots
-![System (Dark)](System Dark.png)
-
-![System (Light)](System Light.png)
+![System (Light)](System Light.png) ![System (Dark)](System Dark.png)
